@@ -5,4 +5,10 @@ Discord.JS programovanie BOTA.
 
 📌 | Nájdeš tu všetky kódy ktoré sme robili na YouTube.
 
-👀 |
+
+## 👀 | Základy
+
+Poprvé nainštaluj discord.js
+```
+npm i discord.js@dev --save
+```
