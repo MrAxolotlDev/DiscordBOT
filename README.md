@@ -5,6 +5,8 @@ Discord.JS programovanie BOTA.
 
 📌 | Nájdeš tu všetky kódy ktoré sme robili na YouTube.
 
+🚀 | Nezabudni si nainštalovať [node.js](https://nodejs.org/en/) verziu 16.9.1!
+
 
 ## 👀 | Základy
 
